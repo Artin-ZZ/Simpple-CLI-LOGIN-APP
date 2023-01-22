@@ -22,3 +22,9 @@ Simple App In CLI Without GUI With A  Very Simple Login Page
     Adding , Deleting, Processing Tickets
     Normal Users can Only Delete Their Posted Cars
     Master Controll For CEO & Admins
+
+## Credits:
+        Programmer & Creator : Artin Zafari
+        Email : artinzafari@gmail.com
+        Instagram : artin_zz0
+        linked in: Artin Zafari
