@@ -9,7 +9,7 @@ Simple App In CLI Without GUI With A  Very Simple Login Page
   *But First You Need To Create A User Or CEO Or Admin
 
 ## How To Create User First:
-  Run In Git/Cmd: <code>python add_user</code><br><br><br>
+  *.Run In Git/Cmd: python add_user
 
 ## Features:
     *.Different Pages For Normal Users and CEO & Admins
