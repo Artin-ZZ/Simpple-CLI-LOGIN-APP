@@ -28,3 +28,6 @@ Simple App In CLI Without GUI With A  Very Simple Login Page
         Email : artinzafari@gmail.com
         Instagram : artin_zz0
         linked in: Artin Zafari
+        
+        This App Is Open Source and Free of Charge. You can Change & Use It How Ever You Want To
+        I Hope That It Solves Your problems :)
