@@ -3,13 +3,12 @@ Simple App In CLI Without GUI With A  Very Simple Login Page
 
 
 
-## How To Work With IT:
-  Run In Git/Cmd: <code>python APP_RUN_LOGIN.py</code><br><br><br>
+## How To Work With IT (Run IN CMD/GIT):
+    *.python APP_RUN_LOGIN.py
   
   *But First You Need To Create A User Or CEO Or Admin
 
-## How To Create User First:
-  Run In CMD/GIT:
+## How To Create User First (Run IN CMD/GIT):
     *.python add_user
 
 ## Features:
